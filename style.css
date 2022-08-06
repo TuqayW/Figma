@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: #F4F8FF;
+    width: 1600px;
+    height: 1000px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.onuc{
+    width: 568px;
+    height: 812px;
+    background-color: white;
+    border-radius: 24px;
+    box-shadow: 0px 14px 24px rgba(234, 114, 254, 0.1), 0px 24px 64px rgba(134, 178, 254, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.up-word{
+    width: 428px;
+    height: 99px;
+    margin-bottom: 32px;
+}
+.ab{
+    width: 101px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    color: #111831;
+}
+.frame-do{
+    width: 428px;
+    height: 43px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.mem{
+    font-size: 18px;
+    line-height: 27px;
+    color: #111831;
+}
+.frame-ik{
+    width: 93px;
+    height: 43px;
+    border: 1px solid #BBC2FF;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.im{
+    font-size: 18px;
+    line-height: 27px;
+    color: #5C69E1;
+}
+.searc{
+    width: 428px;
+    height: 68px;
+    display: flex;
+    align-items: center;
+    border: 1px solid #B4BED0;
+    border-radius: 8px;
+    margin-bottom: 32px;
+}
+.find{
+    font-size: 18px;
+    line-height: 27px;
+    color: #898C98;
+    font-weight: 500;
+    margin-left: 10px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.link{
+    width: 428px;
+    height: 103px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 32px;
+}
+.sha{
+    font-size: 18px;
+    line-height: 27px;
+    color: #111831;
+    font-weight: 500;
+    width: 207px;
+    height: 27px;
+}
+.fr-uc{
+    width: 428px;
+    height: 68px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid #B4BED0;
+    border-radius: 8px;
+}
+.workme{
+    width: 294px;
+    height: 27px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #111831;
+}
+.png{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sozummler{
+    width: 188px;
+    height: 27px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.sugg{
+    width: 188px;
+    height: 27px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #111831;
+}
+.frma-onki{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 428px;
+    height: 306px;
+}
+.doguz h1{
+    width: 150px;
+    height: 36px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #111831;
+    margin-left: 16px;
+}
+.doguz{
+    width: 243px;
+    height: 77px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.add{
+    width: 37px;
+    height: 27px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+.iki{
+    width: 103px;
+    height: 43px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 16px;
+    background: #111831;
+    border-radius: 4px;
+}
+.sekil{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 428px;
+    height: 77px;
+}
+.sekilebax{
+    width: 24px;
+    height: 24px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-right: 10px;
+}
+.sekilebax img{
+    width: 24px;
+    height: 24px;
+}
+.doguz-l{
+    width: 343px;
+    height: 77px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.doguz-l h1{
+    width: 170px;
+    height: 36px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #111831;
+    margin-left: 16px;
+}
